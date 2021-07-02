@@ -9,8 +9,32 @@ p{
  }
  p#pagelink{
      font-size:x-large;
+     
  }
  span.head{
      font-weight: 900;
      font-size: large;
  }
+ .triangle{
+     width: 0;
+     height: 0;
+     border: 50px solid transparent;
+     border-right-color: white;
+     border-top-color: white;
+ }
+ .underline{
+    border-top: 4px dashed burlywood;
+ }
+ .profileborder
+ {
+    border: 4px dashed burlywood;
+ }
+.mybg{
+background-color:  #003366;
+}
+.myboxbg{
+    background-color:  #ff3333;
+}
+.myptext{
+    color:#003366;
+}
