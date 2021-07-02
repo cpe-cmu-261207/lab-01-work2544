@@ -10,7 +10,12 @@
 .tk{
     
     background-color: #f2ccfc;
-   
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: fill;
+    position: relative;
+    background-image: url("../images/tk.jpg");
 }
 .box-in {
     position: absolute;
@@ -22,4 +27,24 @@
 .expcolor
 {
     background-color: #87339e;
+}
+.custom-shape-divider-bottom-1625248174 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1625248174 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+.custom-shape-divider-bottom-1625248174 .shape-fill {
+  fill: #FFFFFF;
 }
