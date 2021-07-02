@@ -7,8 +7,11 @@ p{
     font-family:  comic ;
     
  }
- p#pagelink{
-     font-size:x-large;
+ #pageling{
+     font-size: medium;
+ }
+ p#pagelink#first{
+     font-size:large;
      
  }
  span.head{

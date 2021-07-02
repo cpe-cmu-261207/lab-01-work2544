@@ -1,0 +1,25 @@
+.nsc {
+    background-image: url("../images/nsc.jpg");
+    background-color: #cccccc;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: fill;
+    position: relative;
+  }
+.tk{
+    
+    background-color: #f2ccfc;
+   
+}
+.box-in {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+.expcolor
+{
+    background-color: #87339e;
+}
